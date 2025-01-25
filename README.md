@@ -35,7 +35,7 @@ A modern browser with WebGL support.
 A local or online server to serve the files (optional for advanced features).
 Installation
 Clone the repository:
-git clone https://github.com/indrakumarcse/Cube-Coloring.git
+git clone (https://github.com/indrakumarcse/cuboid-coloring)
 
 Navigate to the project directory:
 cd Cube-Coloring
